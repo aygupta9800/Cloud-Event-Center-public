@@ -1,0 +1,19 @@
+.container {
+    width: 300px;
+    background-color: white;
+    height: 100vh;
+}
+
+.menu-option {
+    padding: 10px 20px;
+    color: white;
+    background-color: gray;
+    margin-bottom: 1px;
+    font-weight: 800;
+    font-size: 18px;
+}
+
+.menu-option:hover {
+    background-color: blueviolet;
+}
+

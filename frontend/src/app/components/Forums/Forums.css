@@ -1,0 +1,57 @@
+.container1 {
+    background-color: #7FFFD4;
+    border-radius: 5px;
+    margin: 10px 0;
+    display: flex;
+    flex-direction: column;
+    width: 35rem;
+  }
+
+  .photo-chat {
+    height: 25rem;
+    width: 35rem;
+  }
+
+  .chattextbox{
+    position: relative;
+    z-index: 1;
+    min-height: 20px;
+    max-height: 100px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    font-size: 15px;
+    font-weight: 400;
+    color: var(--compose-primary);
+    word-wrap: break-word;
+    white-space: pre-wrap;
+    outline: none;
+    width: 35rem;
+  }
+
+  .button1custom{
+    background-color: black !important;
+  border: none;
+  color: white !important;
+  padding: 10px;
+  text-decoration: none;
+  cursor: pointer;
+  margin: 0px !important;
+  height: 40px;
+  border-radius: 4px;
+  font-size: 16px;
+  text-align: center;
+  }
+
+  .button2custom{
+    background-color: red !important;
+  border: none;
+  color: white !important;
+  padding: 10px;
+  text-decoration: none;
+  cursor: pointer;
+  margin: 0px !important;
+  height: 40px;
+  border-radius: 4px;
+  font-size: 16px;
+  text-align: center;
+  }

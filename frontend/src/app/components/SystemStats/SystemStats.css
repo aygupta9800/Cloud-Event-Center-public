@@ -1,0 +1,22 @@
+.card{
+    border: outset;
+    margin: 5px;
+}
+
+h3{
+    text-align: center;
+}
+
+p{
+    size: 20%;
+}
+
+.chart{
+    height: 300px;
+    width: 300px;
+    margin: 0 auto;
+}
+
+h5{
+    text-align: center;
+}
