@@ -1,3 +1,6 @@
+(Refer to Project-Report.pdf for more info)
+- [Project-Report.pdf](https://github.com/aygupta9800/Cloud-Event-Center-public/blob/master/Project-Report.pdf)
+
 # CloudEventCenter
 In this term project, we build an online service called Cloud Event Center (CEC) to organize online or in-person events. Any person or organization can post events in CEC, and those who are interested can sign up. We also provide capabilities for potential participants to ask questions prior to the events, and share moments with messages and pictures during and after the events. A reputation system will be implemented to rate participants and organizers based on the feedback for each other. 
 
